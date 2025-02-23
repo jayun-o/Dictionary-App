@@ -1,6 +1,6 @@
 
 # Dictionary App(Kotlin/Jetpack compose)
-## Building a clean architecture dictionary app using MVVM, Dagger Hilt, Retrofit, and Kotlin, covering essential coding practices and UI development.
+## Building a dictionary app using MVVM, Dagger Hilt, Retrofit, and Kotlin, covering essential coding practices and UI development.
 ## Highlights:
 🛠️ Clean Architecture: Learn to structure app for scalability and maintainability.\
 🔌 Dependency Injection: Use Dagger Hilt for efficient dependency management.\
